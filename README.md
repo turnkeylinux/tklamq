@@ -7,5 +7,4 @@ TKLAMQ has 3 commands:
     tklamq-publish      Publishes a message to exchange/routing_key
     tklamq-consume      Consumes messages from a queue
 
-    See commands help for usage and environment variables.
-
+See commands help for usage and environment variables.

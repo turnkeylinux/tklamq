@@ -1,0 +1,9 @@
+v0.12 Release Notes
+===================
+
+* Minor updates; no functional changes.
+  - Update package architecture; 'any' => 'all'.
+  - Updated/extended gitignore to ignore build assets and cached files.
+  - Remove legacy travis config.
+  - Packaging updates to make package reproducable.
+  - Move readme and minor updates: 'docs/README' => 'README.md'.
