@@ -13,7 +13,6 @@ Architecture: all
 Depends:
  ${misc:Depends},
  ${python3:Depends},
- python3-amqplib,
  python3-kombu,
  python3-pycryptodome,
 Description: TurnKey Linux Advanced Message Queue (AMQ) client

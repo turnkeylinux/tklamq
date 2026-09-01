@@ -1,0 +1,5 @@
+v0.12.1 Release Notes
+=====================
+
+* Remove the obsolete python3-amqplib package dependency.
+  TKLAMQ uses Kombu, whose trixie package provides its AMQP dependency.
